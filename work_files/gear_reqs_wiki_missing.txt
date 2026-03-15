@@ -1,0 +1,152 @@
+﻿Abyssal bludgeon
+Abyssal tentacle
+Abyssal whip
+Ahrim's hood
+Ahrim's robeskirt
+Ahrim's robetop
+Amethyst arrow
+Amulet of fury
+Amulet of glory
+Amulet of magic
+Amulet of strength
+Ancient d'hide body
+Ancient d'hide chaps
+Ancient d'hide coif
+Ancient staff
+Arcane spirit shield
+Archer helm
+Archers ring
+Archers ring (i)
+Arclight
+Armadyl chainskirt
+Armadyl chestplate
+Armadyl d'hide body
+Armadyl d'hide chaps
+Armadyl d'hide coif
+Armadyl helmet
+Ava's accumulator
+Ava's device
+Avernic defender
+Bandos chestplate
+Bandos d'hide body
+Bandos d'hide chaps
+Bandos d'hide coif
+Bandos tassets
+Barrelchest anchor
+Barrows gloves
+Berserker helm
+Berserker ring
+Berserker ring (i)
+Black d'hide body
+Black d'hide chaps
+Blue moon body
+Blue moon chaps
+Broad bolts
+Burning claws
+Climbing boots
+Coif
+Combat bracelet
+Confliction gauntlets
+Darklight
+Dragon arrow
+Dragon claws
+Dragon crossbow
+Dragon dagger (p++)
+Dragon hunter wand
+Dragon platelegs
+Dragon scimitar
+Dragon warhammer
+Eclipse moon body
+Eclipse moon chaps
+Eldritch nightmare staff
+Elidinis' ward (f)
+Eternal boots
+Ferocious gloves
+Fighter torso
+Fire cape
+God cape
+Guthan\
+Guthix d'hide body
+Guthix d'hide chaps
+Guthix d'hide coif
+Harmonised nightmare staff
+Helm of neitiznot
+Iban's staff
+Imbued god cape
+Infernal cape
+Infinity boots
+Infinity hat
+Inquisitor's mace
+Karil\
+Kodai wand
+Mage cape
+Mage's book
+Mystic boots
+Mystic gloves
+Mystic hat
+Mystic robe bottom
+Mystic robe top
+Necklace of anguish
+Neitiznot faceguard
+Noxious halberd
+Obsidian cape
+Obsidian platebody
+Obsidian platelegs
+Occult necklace
+Odium ward
+Pegasian boots
+Primordial boots
+Rada's blessing (1)
+Rada's blessing (2)
+Rada's blessing (3)
+Rada's blessing (4)
+Ranger boots
+Robin hood hat
+Rune boots
+Rune crossbow
+Rune defender
+Rune platebody
+Rune platelegs
+Rune scimitar
+Sanguinesti staff
+Saradomin d'hide body
+Saradomin d'hide chaps
+Saradomin d'hide coif
+Scythe of vitur
+Seers ring
+Seers ring (i)
+Serpentine helm
+Snakeskin boots
+Soulreaper axe
+Spiked manacles
+Staff of fire
+Staff of the dead
+Toxic blowpipe
+Trident of the seas
+Trident of the swamp
+Tumeken's shadow
+Twinflame staff
+Twisted bow
+Twisted buckler
+Venator bow
+Virtus robe bottom
+Virtus robe top
+Void mage helm
+Void mage robe
+Void mage top
+Void ranger helm
+Void robe
+Void top
+Volatile nightmare staff
+Warped sceptre
+Wizard boots
+Wizard hat
+Wizard robe
+Wizard robe top
+Zamorak d'hide body
+Zamorak d'hide chaps
+Zamorak d'hide coif
+Zamorakian hasta
+Zaryte crossbow
+Zaryte vambraces
+Zombie axe

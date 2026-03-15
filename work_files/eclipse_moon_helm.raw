@@ -1,0 +1,101 @@
+{{Infobox Item
+|version1 = New
+|version2 = Used
+|version3 = Broken
+|name1 = Eclipse moon helm
+|name2 = Eclipse moon helm
+|name3 = Eclipse moon helm (broken)
+|image1 = [[File:Eclipse moon helm.png]]
+|image2 = [[File:Eclipse moon helm (used).png]]
+|image3 = [[File:Eclipse moon helm (broken).png]]
+|release = [[20 March]] [[2024]]
+|update = Varlamore: Part One
+|members = Yes
+|quest = No
+|tradeable1 = Yes
+|tradeable2 = No
+|tradeable3 = Yes
+|placeholder = Yes
+|equipable = Yes
+|stackable = No
+|noteable1 = Yes
+|noteable2 = No
+|noteable3 = Yes
+|options1 = Wear, Drop
+|options2 = Wear, Check, Drop
+|options3 = Drop
+|examine = The helm of the Eclipse Moon.
+|value = 103000
+|weight = 0.907
+|exchange1 = Yes
+|exchange2 = No
+|exchange3 = Yes
+|id1 = 29010
+|id2 = 29035
+|id3 = 29055
+}}
+{{Synced switch
+|version1 = [[File:Eclipse moon helm detail.png|150px|left]]
+|version2 = [[File:Eclipse moon helm (used) detail.png|150px|left]]
+|version3 = [[File:Eclipse moon helm (broken) detail.png|130px|left]]
+}}
+[[File:Eclipse moon helm chathead.png|left]]
+The '''eclipse moon helm''' is an item that requires level 75 [[Ranged]] and 50 [[Defence]] to equip, which is obtained as a possible reward from the [[Lunar Chest]] in [[Neypotzli]].
+
+As with all [[Moon equipment]] it is degradeable, much like [[Barrows equipment]]. The armour starts at 3000 charges and loses 1 charge for every 54 seconds in combat, meaning it lasts for 45 hours of continuous combat before breaking. Having an NPC such as [[Bob]] and [[Dunstan]] repair it costs 1,500,000 coins when fully broken, while repairing it yourself at an [[armour stand]] adds a discount of 7,500 coins per [[Smithing]] level, reducing the price to 757,500 coins at level 99.
+
+==Combat stats==
+{{Infobox Bonuses
+|version1 = New
+|version2 = Used
+|version3 = Broken
+|astab = 0
+|aslash = 0
+|acrush = 0
+|amagic = -6
+|arange = +8
+|dstab = +2
+|dslash = +3
+|dcrush = +14
+|dmagic = +10
+|drange = +4
+|str = +3
+|rstr = 0
+|mdmg = 0
+|prayer = 0
+|slot = head
+|image = [[File:Eclipse moon helm equipped male.png|130px]]
+|altimage = [[File:Eclipse moon helm equipped female.png|130px]]
+}}
+== Set effect ==
+[[File:Eclipse (set effect).gif|thumb|280px|A player triggers the ''Eclipse'' set effect.]]
+When all pieces of the [[eclipse moon armour]] set are worn, the player gains the ''Eclipse'' set effect, granting successful attacks with the [[eclipse atlatl]] a 20% chance to inflict a burn on any non-immune target. 
+
+While burning, the target takes 10 '''burn'''[[File:Burn_hitsplat.png]] damage over the course of 40 ticks or 24 seconds (''Seen as 1[[File:Burn_hitsplat.png]] damage every 4 ticks or 2.4 seconds'').  Each burn has an individual duration and up to five burns can be applied to a target at a time. At maximum stacks, existing burns must expire before a new burns can be applied.
+
+On average, this results in targets taking roughly 2 '''burn''' damage per successful hit of the weapon. However because burn deals damage over time, damage is lost if the burn is cleared or the target dies.
+==Item sources==
+{{Drop sources|Eclipse moon helm}}
+
+==Used in recommended equipment==
+{{Used in recommended equipment|Eclipse moon helm}}
+
+==Gallery==
+<gallery heights="250" style="text-align:left">
+Eclipse moon armour equipped male.png|Eclipse moon armour on body type A.
+Eclipse moon armour equipped female.png|Eclipse moon armour on body type B.
+</gallery>
+
+==Changes==
+{{Subject changes header}}
+{{Subject changes
+|date = 24 April 2024
+|update = Varlamore Tweaks, GameJam V Commences & More!
+|change = The weight of the tradeable, unbroken variant was decreased from 1 kg to 0.907 kg.
+}}
+{{Subject changes footer}}
+
+{{Neypotzli}}
+{{Ranged armour}}
+
+[[Category:Collection log items]]

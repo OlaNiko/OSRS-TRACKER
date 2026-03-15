@@ -1,0 +1,2032 @@
+13.03.2026, 06:10                                        Optimal quest guide - OSRS Wiki
+
+
+
+
+   Optimal quest guide Give feedback
+       See also: Optimal quest guide/Ironman and Optimal quest guide/Free-to-play
+   The optimal quest guide lists Old School RuneScape quests in an order that allows new Members
+   to progress in a way that minimises the amount of skill training to completion of all the quests.
+   This guide does not show the most efficient quest order. It does not take into consideration
+   unlockable content, such as fairy rings or dragon equipment, that provide numerous benefits to
+   the player's game progression. For that, it is recommended that players complete the quests in
+   the notable quest unlocks section as soon as possible.
+
+
+
+     Contents
+
+       Guide
+         Notable quest unlocks
+         Quests
+
+       See also
+
+
+
+
+   Guide
+   Experience lamps or books of knowledge received through random events or Achievement Diaries
+   may be used on any skill of the player's choosing or to save time by shortening the next bit of
+   training in this guide.
+
+   Players with 50 Construction should take advantage of their player-owned house for access to a
+   portal chamber, teak altar, and mounted glory. Teleport to house (tablet) may also be used for
+   emergency teleport. New players on a budget should use a ring of dueling to access the bank and
+   restore stats at Ferox Enclave's pool of refreshment.
+
+   Completing Achievement Diaries will be beneficial throughout the game; some of the rewards
+   include access to unlimited teleports, noted item drops, antique lamps, shortcuts, and additional
+   lunar spells. Similarly, some miniquests may provide useful rewards, such as experience lamps,
+   and may be required to complete other quests.
+
+
+
+
+   Notable quest unlocks
+   The quests below list some of the more notable unlockable content, teleportation methods,
+   equipment, and locations. The quests below are not listed in any specific order.
+
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                             1/29
+13.03.2026, 06:10                                         Optimal quest guide - OSRS Wiki
+
+     notjonas13                                 Look up
+
+       Skill unlocks:
+          Druidic Ritual — Unlocks Herblore and the ability to use lamps and books of knowledge
+          on Herblore
+          Rune Mysteries — Unlocks the ability to use lamps and books of knowledge on
+          Runecraft
+          Pandemonium – Unlocks the Sailing skill
+          Prying Times – Unlocks the ability to open sealed crates using a crowbar to do sea
+          charting for the Sailing skill
+          Current Affairs – Unlocks the ability to use current ducks to do sea charting for the
+          Sailing skill
+          Tears of Guthix — Unlocks weekly access to a minigame that rewards experience in the
+          player's lowest skill, which is useful in aiding progress towards skilling goals
+          Desert Treasure I — Unlocks the ability to use Ancient Magicks
+          A Kingdom Divided — Unlocks 24 Arceuus spells: combat spells with the exception of
+          Ghostly Grasp and Inferior Demonbane, and utility spells with the exception of Resurrect
+          Crops and Reanimation spells (All seven of these spells are already unlocked upon
+          changing spellbooks without needing to complete A Kingdom Divided )
+          Lunar Diplomacy — Unlocks the ability to use Lunar spellbook
+          Dream Mentor — Unlocks the Lunar spells: Monster Examine, Humidify, Hunter Kit, Stat
+          Spy, Dream, Plank Make, Spellbook Swap
+          King's Ransom — Unlocks Chivalry and Piety prayers
+          Tai Bwo Wannai Trio — Unlocks the ability to cook karambwan
+       Area unlocks
+             Children of the Sun – Unlocks Varlamore
+             Priest In Peril – Unlocks Morytania
+             Bone Voyage – Unlocks Fossil Island
+             Throne of Miscellania – Unlocks Managing Miscellania (and Royal Trouble expands it)
+             Regicide – Unlocks Tirannwn
+             Mourning's End Part I – Unlocks Lletya
+             Song of the Elves – Unlocks Prifddinas
+             Making Friends with My Arm – Unlocks Weiss
+             Sins of the Father – Unlocks Darkmeyer
+             Cabin Fever – Unlocks Mos Le'Harmless
+             Perilous Moons – Unlocks Cam Torum and Neypotzli
+             The Heart of Darkness – Unlocks Ruins of Tapoyauik
+             Below Ice Mountain – Unlocks Ruins of Camdozaal
+             Beneath Cursed Sands – Unlocks Tombs of Amascut
+             Troubled Tortugans – Unlocks The Great Conch
+             Shadows of Custodia – Unlocks Stalker Den
+             The Final Dawn – Unlocks Crypt of Tonali and Doom of Mokhaiotl
+             Monkey Madness I – Unlocks Ape Atoll (Monkey Madness II eliminates the need to
+             use a greegree and unlocks Kruk's Dungeon and Crash Site Cavern)
+             Death to the Dorgeshuun – Unlocks Dorgesh-Kaan
+             The Fremennik Trials – Unlocks Neitiznot and Jatizso
+             Lunar Diplomacy – Unlocks Lunar Isle
+             Lost City – Unlocks Zanaris
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                               2/29
+13.03.2026, 06:10                                        Optimal quest guide - OSRS Wiki
+
+       Transportation unlocks:
+          Plague City – Unlocks Ardougne Teleport (Tablet teleport and spellbook teleport)
+          Enlightened Journey – Unlocks the balloon transport system
+          The start of Fairytale II - Cure a Queen – Access to fairy rings
+          Tree Gnome Village – Unlock spirit tree teleports
+          The Grand Tree – Unlocks gnome glider transportation
+          Ghosts Ahoy – Unlocks Ectophial and free passage to Port Phasmatys
+          Watchtower – Unlocks Watchtower Teleport (Tablet teleport and spellbook teleport)
+          A Taste of Hope – Unlocks Drakan's medallion
+          Eadgar's Ruse – Unlocks Trollheim teleport
+          Shilo Village – Unlocks Shilo Village cart system
+          Client of Kourend – Unlocks Kourend Castle Teleport (Tablet teleport and spellbook
+          teleport)
+          Twilight's Promise – Unlocks the Quetzal Transport System
+          Another Slice of H.A.M. – Unlocks the Dorgesh-Kaan–Keldagrim train system
+          Eagles' Peak – Unlocks the eagle transport system
+          Mourning's End Part I – Unlocks Teleport crystal (and Song of the Elves expands it to
+          include a teleport to Prifddinas)
+          Monkey Madness II - Unlocks Royal seed pod
+          Client of Kourend - Unlocks Kharedst's memoirs (upgraded by A Kingdom Divided to
+          Book of the dead)
+          Making Friends With My Arm - Unlocks Stony basalt (teleport to Troll Stronghold ) and Icy
+          basalt (teleport to Weiss)
+       Equipment unlocks:
+             The Great Brain Robbery – Unlocks the barrelchest anchor
+             Dwarf Cannon – Unlocks the dwarf multicannon
+             Dragon Slayer I – Ability to use green d'hide body, rune platebody, and dragon platebody
+             Dragon Slayer II – Ability to create Ava's assembler and Ferocious gloves (and
+             additionally unlocks the Mythical Cape)
+             Family Crest – Unlocks steel gauntlets
+             Animal Magnetism – Unlocks Ava's device
+             The Slug Menace – Unlocks proselyte armour
+             Recipe for Disaster – Completion of the subquests unlocks better Culinaromancer's
+             gloves
+             Lost City – Ability to use the dragon dagger and the dragon longsword
+             Sins of the Father - Unlocks Blisterwood flail (and A Taste of Hope unlocks Ivandis
+             flail)
+             Heroes' Quest – Ability to use dragon battleaxe and dragon mace
+             Monkey Madness I – Ability to use dragon scimitar
+             Monkey Madness II – Ability to use the heavy ballista
+             The Fremennik Isles – Unlocks helm of Neitiznot
+             The Fremennik Exiles – Unlocks Neitiznot faceguard
+             Haunted Mine – Unlocks salve amulet
+             Beneath Cursed Sands – Unlocks Keris partisan (and Contact! will unlock Keris)
+             Below Ice Mountain – Unlocks Imcando hammer
+             Priest in Peril — Unlocks the Wolfbane dagger
+             Nature Spirit — Unlocks Druid pouch and Silver sickle (b)
+             Recruitment Drive – Unlocks initiate armour
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                              3/29
+13.03.2026, 06:10                                         Optimal quest guide - OSRS Wiki
+
+             The Path of Glouphrie – Unlocks access to Warped sceptre drop
+             The Eyes of Glouphrie – Unlocks the Crystal Saw
+             Underground Pass – Unlocks Iban's staff
+             The Final Dawn – Unlocks Arkan blade
+             Shadow of the Storm – Unlocks Darklight (which can be upgraded to an Arclight and
+             Emberlight, and Demon Slayer unlocks Silverlight)
+             Creature of Fenkenstrain – Unlocks Ring of Charos (Garden of Tranquillity upgrades it
+             to Ring of Charos(a))
+
+
+
+
+   Quests
+   A note on usage (particularly relevant for new players): the "New levels after quest" column
+   shows the levels the player will have if they follow this guide exactly. However, players may find it
+   beneficial to train up Agility (for faster run regeneration and eventually the graceful outfit) and
+   one's combat stats (especially Prayer for protection prayers) separately to make completing some
+   quests easier. This is not strictly necessary, though, as stamina potions and energy potions can
+   also be used to restore run energy, and many quest bosses can be flinched or safespotted,
+   thereby circumventing the need for strong stats and gear.
+
+   Hover over a skill reward in the "New levels after quest" column to see the exact total experience
+   in the listed skill after completing the quest.
+
+     notjonas13                                 Look up
+
+
+
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                                 4/29
+13.03.2026, 06:10                                                   Optimal quest guide - OSRS Wiki
+
+                                                     Old School RuneScape Quest Guide
+
+                              Quick           New levels after     Quest      Total
+       Quest/Activity                                                                         Additional info          Location
+                              Guide               quest            points      QP
+
+     Learning the                                                                                                    Tutorial Island
+                              N/A         10       Hitpoints       1          1
+     Ropes
+
+                                                                                       Consider getting an extra
+                                                                                       pot of flour for Prince Ali
+                                                                                       Rescue .
+                                                                                       It        is       also
+                                                                                       recommended to start
+                                                                                       Rune Mysteries          ,
+                                                                                       The Restless Ghost
+                                                                                       and Prince Ali Rescue
+                                                                                          while in the area, to
+                                                                                       speed up completion
+                                                                                       of these quests later.
+
+     Cook's Assistant
+                              QG          4      Cooking           1          2        For a more in-depth           Lumbridge
+                                                                                       guide on which quests
+                                                                                       to      combine       to
+                                                                                       complete all Free-to-
+                                                                                       play       quests    as
+                                                                                       efficiently as possible,
+                                                                                       see the free-to-play
+                                                                                       version of this guide.
+                                                                                       From now on, this
+                                                                                       guide        will   not
+                                                                                       recommend         multi-
+                                                                                       questing strategies.
+
+                                                                                       Consider getting an extra
+     Sheep Shearer            QG          2       Crafting         1          3        3 balls of wool for the       Lumbridge
+                                                                                       Prince Ali rescue quest.
+     Misthalin Mystery
+                              QG          7       Crafting         1          4                                      Lumbridge
+
+     Prince Ali Rescue                                                                 Consider buying a sickle
+                              QG                                   3          7                                      Al Kharid
+                                                                                       mould while in Al Kharid.
+
+     The Restless
+                              QG          9       Prayer           1          8                                      Lumbridge
+     Ghost
+
+                                                                                       Unlocks the ability to use
+     Rune Mysteries                                                                    lamps and books of
+                              QG                                   1          9                                      Lumbridge
+                                                                                       knowledge on the
+                                                                                       Runecraft skill.
+
+     Unlock:                  N/A                                  0          9        Requires RuneScape            Barbarian
+     Stronghold of                                                                     Authenticator to be set.      Village
+     Security                                                                          Bring enough food and run
+                                                                                       through dangerous rooms
+                                                                                       as fast as possible, with
+                                                                                       auto-retaliate off. This
+
+                                                           Clear selection (201/233)
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                                                             5/29
+13.03.2026, 06:10                                                   Optimal quest guide - OSRS Wiki
+                                                                                       rewards players with
+                                                                                               10,000 from just the
+                                                                                       first three floors.
+
+                                                                                                                      Wizards'
+     Imp Catcher              QG          8       Magic            1          10
+                                                                                                                      Tower
+
+     Witch's Potion           QG          10       Magic           1          11                                      Rimmington
+
+                                                                                       Allows raising of cats.
+                                                                                       It is recommended to
+                                                                                       start raising a kitten to
+     Gertrude's Cat           QG          12      Cooking          1          12
+                                                                                       speed up Recipe for            Varrock
+                                                                                       Disaster/Freeing Evil
+                                                                                       Dave                 and
+                                                                                       Ratcatchers .
+
+                                                                                       Allows access to
+                                                                                       Varlamore. Consider
+                                                                                       completing this quest
+                                                                                       whilst in Varrock Square
+                                                                                       during Gertrude's Cat to
+                                                                                       minimise time spent
+                                                                                       moving back and forth.
+     Children of the                                                                   Additionally,     visit
+                              QG                                   1          13                                      Varrock
+     Sun
+                                                                                       Varlamore once via
+                                                                                       Regulus Cento in
+                                                                                       order to unlock all
+                                                                                       other   transportation
+                                                                                       methods to the region.
+
+
+     Natural history                      9      Slayer
+                              N/A                                  0          13                                      Varrock
+     quiz (miniquest)                     9      Hunter
+
+                                                                                       Gives a player-owned
+     Daddy's Home                                                                      house (POH) in
+                              QG          8       Construction     0          13                                      Varrock
+     (miniquest)                                                                       Rimmington, as well as a
+                                                                                       valuable Marlo's crate.
+
+     Dwarf Cannon             QG          11       Crafting        1          14       It is recommended to           Baxtorian
+                                                                                       complete (or choose the        Falls
+                                                                                       option to skip) the
+                                                                                       Barbarian Assault tutorial,
+                                                                                       to unlock the minigame
+                                                                                       teleport. This makes it
+                                                                                       easier to reach the quest
+                                                                                       finish location more
+                                                                                       quickly. Or just use the
+                                                                                       teleport from a games
+                                                                                       necklace.
+                                                                                       Be sure to start the
+                                                                                       Alfred     Grimhand's
+                                                                                       Barcrawl     miniquest
+                                                                                       when you are there,
+                                                                                       and visit nearby bars
+                                                                                       while questing. Grants
+
+                                                           Clear selection (201/233)
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                                                             6/29
+13.03.2026, 06:10                                                     Optimal quest guide - OSRS Wiki
+
+                                                                                         access to the dwarf
+                                                                                         multicannon       and
+                                                                                         allows smithing of
+                                                                                         cannonballs. It may
+                                                                                         be advantageous to
+                                                                                         progress       Doric's
+                                                                                         Quest        and The
+                                                                                         Knight's Sword
+                                                                                         when visiting Nulodion
+                                                                                         near Falador for this
+                                                                                         quest.
+
+                                                                                         Speak to King Bolren part-
+                                                                                         way through the quest to
+     Waterfall Quest                      30       Attack                                                             Baxtorian
+                              QG                                      1         15       start Tree Gnome Village
+                                          30      Strength                                                            Falls
+                                                                                             and unlock Elkoy's
+                                                                                         follow option.
+
+     Tree Gnome                                                                          Grants the ability to use    Tree Gnome
+                              QG          36       Attack             2         17
+     Village                                                                             spirit trees.                Village‎
+
+                                                                                         Start the quest Below Ice
+     Doric's Quest            QG          10       Mining             1         18                                    Falador
+                                                                                         Mountain
+                                                                                         Level 42 and 55 enemies
+     Witch's House            QG          24       Hitpoints          4         22                                    Taverley
+                                                                                         can be safespotted.
+
+     The Knight's
+                              QG          29      Smithing            1         23                                    Falador
+     Sword
+
+                                               Train         Fletching from level 1 to level 10
+
+                                                                                         Choose       Agility for
+                                                                                         both experience rewards.
+                                                                                         This quest is done as
+                                                                                         soon as possible in
+                                                                                         order to improve run
+                                                                                         energy       restoration
+                                                                                         and the speed of
+                                                                                         getting around. While
+                                                                                         the             combat
+     The Tourist Trap                                                                    experience         from      Kharidian
+                              QG          26       Agility            2         25
+                                                                                         Waterfall Quest              Desert
+                                                                                         and     Tree    Gnome
+                                                                                         Village        may be
+                                                                                         helpful in completing
+                                                                                         it,   this   and     the
+                                                                                         previous two quests
+                                                                                         could be done sooner
+                                                                                         if safespotting the
+                                                                                         Mercenary Captain.
+
+
+                                                             Clear selection (201/233)
+
+
+
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                                                             7/29
+13.03.2026, 06:10                                                      Optimal quest guide - OSRS Wiki
+
+     Black Knights'
+                              QG                                      3          28                                       Falador
+     Fortress
+
+                                                                                          Grants access to the
+                                                                                          Herblore skill.
+                                                                                          Players can start (but
+                                                                                          unadvised to attempt to
+                                                                                          finish) Dragon Slayer I
+                                                                                          after this quest to be
+     Druidic Ritual           QG          3        Herblore           4          32       allowed to equip the anti-      Taverley
+                                                                                          dragon shield to make
+                                                                                          some quests easier.
+                                                                                          However this will enable
+                                                                                          dragon tasks for
+                                                                                               Slayer which give low
+                                                                                          experience per hour.
+
+                                          14       Prayer
+     Recruitment Drive
+                              QG          10       Herblore           1          33                                       Falador
+                                          27        Agility
+
+                                                                                          While not yet necessary, it
+     Goblin Diplomacy
+                              QG          12        Crafting          5          38       is easy to complete this        Goblin Village
+                                                                                          quest while in Falador.
+
+                                                                                          Gives access to Giants'
+                                                                                          Foundry minigame. If you
+     Sleeping Giants                                                                      complete nine iron/steel        Al Kharid
+                              QG          33       Smithing           1          39
+                                                                                          sword commissions now, it       Desert
+                                                                                          will take care of Smithing
+                                                                                          training you will need later.
+
+                                          40        Attack
+     Fight Arena              QG                                      2          41                                       Fight Arena‎
+                                          14        Thieving
+
+                                                                                          Grants the use of
+     Plague City              QG          18       Mining             1          42       Ardougne teleport and           Ardougne
+                                                                                          Ardougne teleport (tablet).
+
+     Monk's Friend            QG          13       Woodcutting        1          43                                       Ardougne
+
+                                                                                          Useful for its      2,000
+     Hazeel Cult              QG          18        Thieving          1          44                                       Ardougne
+                                                                                          reward.
+
+                                                                                          Useful for its      3,100
+     Sheep Herder             QG                                      4          48                                       Ardougne
+                                                                                          reward.
+
+     Biohazard                QG          20        Thieving          3          51                                       Ardougne
+
+                                           Train         Construction from level 8 to level 10
+
+                                          14        Crafting
+                                                                                          Gives access to Creature
+     Tower of Life            QG          21        Thieving          2          53                                       Ardougne
+                                                                                          Creation minigame.
+                                          14        Construction
+
+     Tribal Totem             QG          24        Thieving          1          54                                       Ardougne
+
+     Death Plateau            QG          40        Attack            1          55                                       Burthorpe
+
+     Merlin's Crystal         QG                                      6          61       Do not talk to Historian        Camelot
+                                                                                          Minas after this quest.
+                                                                                          Instead, save up the lamp
+                                                                                          obtainable from him for
+                                                                                          later, when more skills are
+
+                                                              Clear selection (201/233)
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                                                                   8/29
+13.03.2026, 06:10                                                     Optimal quest guide - OSRS Wiki
+                                                                                         above level 20. This guide
+                                                                                         will indicate when to claim
+                                                                                         it later.
+
+                                          31      Defence
+     Holy Grail               QG                                     2          63                                     Camelot
+                                          29       Prayer
+
+     Murder Mystery
+                              QG          18       Crafting          3          66                                     Seers' Village
+
+                                                                                         Allows use of gnome glider
+                                                                                         transportation system.
+                                                                                         Along with the earlier
+                                                                                         completion of Fight Arena
+                                          44       Attack                                   , Holy Grail , Tree
+     The Grand Tree                                                                                                    Tree Gnome
+                              QG          17       Magic             5          71       Gnome Village , and
+                                                                                                                       Stronghold
+                                                                                         Witch's House , this
+                                          32       Agility
+                                                                                         unlocks the Nightmare
+                                                                                         Zone minigame teleport
+                                                                                         due to having five quest
+                                                                                         bosses unlocked.
+
+                                                                                         Use the        antique
+     Easy Ardougne                                                                       lamp on        Agility.
+                              N/A         34       Agility           0          71                                     Ardougne
+     Diary                                                                               This unlocks an infinite
+                                                                                         teleport to the Ardougne
+                                                                                         Monastery.
+                                                                                         It is recommended to start
+                                                                                         Rag and Bone Man II
+                                                                                         right after completing this
+                                                                                         quest, in order to obtain
+                                                                                         bones randomly
+     Rag and Bone                         30      Prayer
+                              QG                                     1          72       throughout the world          Paterdomus
+     Man I                                14      Cooking                                without actively hunting
+                                                                                         them. The skill
+                                                                                         requirements are not
+                                                                                         needed to start this sequel
+                                                                                         quest.
+
+                                                                                         Allows access to
+                                                                                         Morytania. Consider
+                                                                                         gathering all resources for
+     Priest in Peril          QG          31       Prayer            1          73                                     Paterdomus
+                                                                                         both this quest and Nature
+                                                                                         Spirit    to reduce travel
+                                                                                         back and forth.
+
+                                          32      Defence
+     Nature Spirit            QG          26       Hitpoints         2          75                                     Paterdomus
+                                          23       Crafting
+
+                                               Train     Cooking from level 14 to level 20
+
+                                                                                         The quest unlocks
+                                                                                                                       Port
+     Ghosts Ahoy              QG          32       Prayer            2          77       Ectophial and gives free
+                                                                                                                       Phasmatys
+                                                                                         access to Port Phasmatys.
+
+                                          33       Prayer                                Like before, do not claim
+     Making History           QG                                     3          80       the lamp from Historian       Outpost
+                                          24       Crafting                              Minas just yet.
+                                                                                         Use the magic lamp on
+     The Ides of Milk         QG          33       Prayer            1          81                                     Lumbridge
+                                                                                         Prayer.
+
+     The Lost Tribe           QG          23       Mining            1          82       Allows access to Nardok's     Lumbridge
+                                                                                         Bone Weapons where
+
+                                                             Clear selection (201/233)
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                                                                  9/29
+13.03.2026, 06:10                                                     Optimal quest guide - OSRS Wiki
+                                                                                         players can purchase the
+                                                                                         Dorgeshuun crossbow and
+                                                                                         bone bolts for early
+                                                                                         Ranged training.
+
+     Death to the                         13       Ranged                                                              Lumbridge
+                              QG                                      1         83
+     Dorgeshuun                           26        Thieving                                                           Swamp Caves
+
+     Elemental                            29        Crafting
+                              QG                                      1         84                                     Seers' Village
+     Workshop I                           35       Smithing
+
+                                               Train         Agility from level 34 to level 35
+
+                                Train       Prayer from level 33 to level 37 for Protect from Magic
+
+                                                                                         35 Agility is a
+                                          22       Woodcutting                           recommendation. The in-
+     Icthlarin's Little                                                                  game quest guide lists a      Kharidian
+                              QG          36       Agility            2         86
+     Helper                                                                              level 40 Agility              Desert
+                                          30        Thieving                             recommendation, but this
+                                                                                         is not a hard requirement.
+
+                                          30       Crafting                                                            Kharidian
+     The Golem                QG                                      1         87
+                                          30        Thieving                                                           Desert
+
+                                                                                         After finishing Children of
+                                                                                         the Sun , travelling to
+     The Ribbiting Tale
+                                                                                         Varlamore may be done by
+     of a Lily Pad            QG          25       Woodcutting        1         88                                     Varlamore
+                                                                                         talking to Regulus Cento,
+     Labour Dispute
+                                                                                         located just outside the
+                                                                                         eastern gate of Varrock.
+
+                                           Train         Woodcutting from level 25 to level 36
+
+                                               Train         Crafting from level 30 to level 31
+
+                                                                                         Grants the ability to make
+                                                                                         cosmic runes and to use
+                                                                                         the dragon dagger and the
+                                                                                         dragon longsword.
+
+     Lost City                QG                                      3         91
+                                                                                         It is recommended to          Lumbridge
+                                                                                                                       Swamp
+                                                                                         cut and save two
+                                                                                         dramen branches for
+                                                                                         use in later quests.
+
+                                                                                         Immediately start Fairytale
+                                                                                         II - Cure a Queen      and
+                                                                                         progress until you unlock
+                                                                                         the fairy ring network (see
+                                          44       Attack                                that quest's guide), and
+     Fairytale I -                                                                                                     Draynor
+                              QG          19        Magic             2         93       leave the rest of the quest
+     Growing Pains                                                                                                     Village
+                                                                                         for later. Unlocking this
+                                          17        Farming
+                                                                                         greatly improves mobility
+                                                                                         around the world, and
+                                                                                         gives access to several
+                                                                                         Achievement Diary tasks.
+
+     Recipe for
+     Disaster/Another         QG                                      1         94                                     Lumbridge
+     Cook's Quest
+
+     Recipe for               QG          21       Cooking            1         95                                     Goblin Village
+     Disaster/Freeing
+
+                                                             Clear selection (201/233)
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                                                              10/29
+13.03.2026, 06:10                                                        Optimal quest guide - OSRS Wiki
+     the Goblin                           31          Crafting
+     generals
+                                          20          Farming
+
+                                              Train        Firemaking from level 1 to level 30
+
+     Sea Slug                 QG          24          Fishing           1          96                                       Witchaven
+
+     Pandemonium              QG          5      Sailing                1          97                                       Port Sarim
+
+                                                Train           Sailing from level 5 to level 12
+
+                                          35      Smithing                                                                  The
+     Prying Times             QG                                        1          98
+                                          14       Sailing                                                                  Pandemonium
+
+                                               Train            Sailing from level 14 to level 22
+
+                                          25          Fishing
+     Current Affairs          QG                                        1          99                                       Catherby
+                                          23       Sailing
+
+     Fishing Contest
+                              QG          27          Fishing           1          100                                      Hemenster
+
+     Recipe for
+     Disaster/Freeing                     23      Cooking
+                              QG                                        1          101                                      Falador
+     the Mountain                         13       Slayer
+     Dwarf
+
+                                                                                            Start The Giant Dwarf
+     Mountain                             45          Attack                                                                Fremennik
+                              QG                                        2          103      while in the area for
+     Daughter                             37       Prayer                                                                   Province
+                                                                                            Ratcatchers .
+
+                                                                                            Requires starting The
+                                                                                            Giant Dwarf      to access
+                                                                                            Keldagrim, but completion
+                                                                                            is not required.
+                                                                                            Unlocks lazy and wily cats,
+                                                                                            useful for catching hell-rats
+                                                                                            later on.
+                                                                                            To save time, one can
+     Ratcatchers              QG          33          Thieving          2          105                                      Varrock
+                                                                                            easily grab Rat poison and
+                                                                                            complete Clock Tower
+                                                                                            when in Ardougne for
+                                                                                            Jimmy Dazzler.
+                                                                                            Additionally, complete The
+                                                                                            Feud      while in
+                                                                                            Pollnivneach for the snake
+                                                                                            charmer.
+                                                                                            Complete the quest while
+                                                                                                                            Kharidian
+     The Feud                 QG          39          Thieving          1          106      in Pollnivneach for
+                                                                                                                            Desert
+                                                                                            Ratcatchers .
+
+                                          34          Crafting
+     Death on the Isle
+                              QG          39          Agility           2          108                                      Varlamore
+                                          41          Thieving
+
+     Alfred Grimhand's
+                                                                                                                            Baxtorian
+     Barcrawl                 QG                                        0          108
+                                                                                                                            Falls
+     (miniquest)
+
+                                                                                            An Anti-dragon shield is
+     Scorpion Catcher
+                              QG          34     Strength               1          109      highly recommended but          Seers' Village
+                                                                                            not required.
+
+                                                                Clear selection (201/233)
+
+
+
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                                                                   11/29
+13.03.2026, 06:10                                                     Optimal quest guide - OSRS Wiki
+
+                                                                                         Search the bookcase while
+                                          34       Mining
+     The Dig Site             QG                                     2          111      in the exam centre to start    Digsite
+                                          17       Herblore                              Elemental Workshop II .
+
+                                                                                         Use a wizard's mind bomb
+     Elemental                            37       Crafting
+                              QG                                     1          112      to boost to level 20 Magic,    Seers' Village
+     Workshop II                          38      Smithing                               if necessary.
+
+                                          32      Defence
+     A Soul's Bane            QG                                     1          113                                     Digsite
+                                          27       Hitpoints
+
+     Enter the Abyss
+                              QG          9       Runecraft          0          113                                     Varrock
+        (miniquest)
+
+     X Marks the Spot                                                                    Use the         antique
+                              QG          14       Slayer            1          114                                     Lumbridge
+                                                                                         lamp on        Slayer.
+
+                                                                                         Optionally start out this
+                                                                                         quest, and only finish it
+     Pirate's Treasure
+                              QG                                     2          116      when in Varrock for other      Port Sarim
+                                                                                         quests. This may save a
+                                                                                         significant amount of time.
+
+                                                                                         Use both         antique
+     Client of Kourend                                                                                                  Great
+                              QG          17       Slayer            1          117      lamp rewards on                Kourend
+                                                                                             Slayer.
+
+     The Queen of                                                                                                       Port
+                              QG          42       Thieving          1          118
+     Thieves                                                                                                            Piscarilius
+
+     The Depths of
+                              QG          39       Agility           1          119                                     Hosidius
+     Despair
+
+     A Porcine of                                                                                                       Draynor
+                              QG          19       Slayer            1          120
+     Interest                                                                                                           Village
+
+     Wanted!                  QG          26       Slayer            1          121                                     Falador
+
+                                                                                         You need a partner for this
+                                                                                         quest. This quest also
+     Shield of Arrav          QG                                     1          122      gives access to another        Varrock
+                                                                                         lamp when talking to
+                                                                                         Historian Minas.
+
+     Unlock: Varrock          N/A         38       Crafting          0          122      Talk to Historian Minas just   Varrock
+     Museum Kudos                                                                        up the stairs and tell him
+                                          36       Mining
+                                                                                         the information about the
+                                          29       Slayer                                displays to get the kudos
+                                                                                         and three         antique
+                                                                                         lamps from the quests
+                                                                                         you've done. Use them on
+                                                                                             Slayer.
+                                                                                         Complete the cleaning
+                                                                                         finds part of Varrock
+                                                                                         Museum,     to   earn
+                                                                                         another 50 kudos.
+                                                                                         Combining these 50
+                                                                                         kudos, the 28 kudos
+                                                                                         from    the    Natural
+                                                                                         History Quiz, and the
+
+                                                             Clear selection (201/233)
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                                                                12/29
+13.03.2026, 06:10                                                    Optimal quest guide - OSRS Wiki
+
+                                                                                        35      kudos    from
+                                                                                        Historian Minas, this
+                                                                                        should put you on 113
+                                                                                        kudos in total.
+
+                                                                                        Finally, talk to the
+                                                                                        information clerk to
+                                                                                        claim
+                                                                                            3,500 Mining and
+                                                                                            2,500 Crafting
+                                                                                        experience.
+
+                                                                                        Unlocks Fossil Island,
+                                                                                        which gives access to
+                                                                                        ammonite crabs for
+                                                                                        combat training and
+                                                                                        possible fossil drops, and
+     Bone Voyage              QG                                    1          123                                     Varrock
+                                                                                        bird house trapping for fast
+                                                                                             Hunter experience. It
+                                                                                        is recommended to train
+                                                                                        Hunter on bird houses
+                                                                                        from now on.
+
+                                               Train        Mining from level 36 to level 39
+
+                                                                                        Boost Mining with a
+     Watchtower               QG          33       Magic            4          127                                     Yanille
+                                                                                        dwarven stout.
+
+                                          34       Magic
+                                          31      Firemaking
+     The Giant Dwarf                      38       Crafting
+                              QG                                    2          129                                     Keldagrim
+                                          39      Smithing
+                                          39       Mining
+                                          42       Thieving
+
+     Forgettable Tale...                  28      Cooking
+                              QG                                    2          131                                     Keldagrim
+                                          26       Farming
+
+                                                                                        Unlocks the Dorgesh-
+     Another Slice of                     38       Prayer
+                              QG                                    1          132      Kaan–Keldagrim train           Dorgesh-Kaan
+     H.A.M.                               40       Mining                               system.
+
+     Vampyre Slayer                                                                                                    Draynor
+                              QG          45       Attack           3          135
+                                                                                                                       Village
+
+     Ernest the                                                                                                        Draynor
+                              QG                                    4          139
+     Chicken                                                                                                           Manor
+
+     Demon Slayer             QG                                    3          142                                     Varrock
+
+     Shadow of the                                                                      Use the experience reward
+                              QG          28       Ranged           1          143                                     Al Kharid
+     Storm                                                                              on     Ranged.
+
+                              Train        Prayer from level 38 to level 40 for Protect from Missiles
+
+                                          36     Strength
+     Horror from the
+                              QG          32       Ranged           2          145                                     Lighthouse
+     Deep
+                                          36       Magic
+
+                                                            Clear selection (201/233)
+
+
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                                                              13/29
+13.03.2026, 06:10                                                    Optimal quest guide - OSRS Wiki
+
+                                          36      Woodcutting
+     Animal Magnetism                     14       Fletching                            Unlocks access to Ava's          Draynor
+                              QG                                    1          146
+                                          39       Crafting                             devices.                         Manor
+                                          29       Slayer
+
+     Creature of
+                              QG          42       Thieving         2          148                                       Canifis
+     Fenkenstrain
+
+                                                                                        Requires boosting
+                                                                                            Cooking by 3 levels by
+                                                                                        drinking a mature chef's
+                                                                                        delight, purchasable from
+                                          32      Ranged                                the Grand Exchange for
+     Big Chompy Bird                                                                          40,386.
+                              QG          29      Cooking           2          150                                       Feldip Hills
+     Hunting
+                                          15       Fletching                            Alternatively, consider
+                                                                                        training    Cooking to
+                                                                                        level 30.
+
+     Jungle Potion            QG          19       Herblore         1          151                                       Karamja
+
+     Shilo Village            QG          40       Crafting         2          153                                       Karamja
+
+     Easy Karamja                                                                       Use the         antique
+                              N/A         30       Slayer           0          153                                       Karamja
+     Diary
+                                                                                        lamp on        Slayer.
+
+                                          33       Ranged
+     Zogre Flesh
+                              QG          19       Fletching        1          154                                       Feldip Hills
+     Eaters
+                                          22       Herblore
+
+                                                                                        This quest has 12
+                                                                                        variations of random
+                                                                                        rewards, which may
+     Observatory                                                                        include 875 experience in
+                              QG          40       Crafting         2          156                                       Castle Wars
+     Quest
+                                                                                        either      Attack,
+                                                                                            Strength,      Defence,
+                                                                                        or      Hitpoints.
+
+                                               Train        Ranged from level 33 to level 37
+
+                                          41       Prayer
+     Spirits of the Elid                                                                                                 Kharidian
+                              QG          36       Magic            2          158
+                                                                                                                         Desert
+                                          42       Thieving
+
+                                                                                        After completion of the
+                                                                                        quest, consider waiting at
+                                                                                        the white tree to pick a fruit
+     Garden of
+                              QG          30       Farming          2          160      once it grows on it and          Varrock
+     Tranquillity
+                                                                                        complete a medium
+                                                                                        Varrock achievement diary
+                                                                                        task.
+
+                                          37      Woodcutting
+     Enlightened                          33       Firemaking                           Unlocks access to the
+                              QG                                    1          161                                       Entrana
+     Journey                              41       Crafting                             balloon transport system.
+                                          32       Farming
+
+                                                            Clear selection (201/233)
+
+
+
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                                                                  14/29
+13.03.2026, 06:10                                                   Optimal quest guide - OSRS Wiki
+
+     Unlock: Balloon
+     transport system         N/A         34        Firemaking     0          161                                     Entrana
+     to Crafting Guild
+
+                                            Train        Firemaking from level 34 to level 40
+
+     Unlock: Balloon
+     transport system         N/A         40        Firemaking     0          161                                     Entrana
+     to Varrock
+
+                                            Train        Firemaking from level 40 to level 49
+
+                                                                                       Useful for its reward of 5
+                                                                                       Quest points, which grants
+     Romeo & Juliet           QG                                   5          166      players more time inside       Varrock
+                                                                                       the Tears of Guthix
+                                                                                       minigame.
+                                                                                       Gives access to the Tears
+                                                                                       of Guthix    minigame,         Lumbridge
+     Tears of Guthix          QG          41        Crafting       1          167
+                                                                                       which provides experience      Swamp Caves
+                                                                                       in your lowest skill.
+
+                                Train        Prayer from level 41 to level 43 for Protect from Melee
+
+                                          45      Attack
+                                          33     Defence
+     In Search of the
+                              QG          36     Strength          2          169                                     Canifis
+     Myreque
+                                          27      Hitpoints
+                                          41        Crafting
+
+                                                                                       Bank the diary of Herbi
+                                                                                       Flax and proceed to the
+                                                                                       next quest. You will claim
+                                                                                       its experience reward later.
+                                                                                       Buy 2 extra Swamp
+                                                                                       paste from Razmire
+                                                                                       Builders Merchants.
+                                                                                       For the next quest in
+     Shades of
+                              QG
+                                          42        Crafting
+                                                                   3          172      the guide (In Aid of           Mort'ton
+     Mort'ton                             25        Herblore                           the Myreque ) - You
+                                                                                       can also buy it from
+                                                                                       different places, but
+                                                                                       this way it's easy for
+                                                                                       convenience if you
+                                                                                       don't have it from
+                                                                                       before.
+
+
+                                          46      Attack
+     In Aid of the                        34     Defence
+                              QG                                   2          174                                     Canifis
+     Myreque                              37     Strength
+                                          42        Crafting
+
+         Hand in the diary of Herbi Flax to the Apothecary. This trains                  Herblore, from level 25 to level 25.
+
+     Skippy and the
+                                                                                       Required for killing mogres
+     Mogres                   QG                                   0          174                                     Port Sarim
+                                                                                       in Rag and Bone Man II
+     (miniquest)
+
+                                                           Clear selection (201/233)
+
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                                                             15/29
+13.03.2026, 06:10                                                     Optimal quest guide - OSRS Wiki
+
+     Troll Stronghold                                                                    Grants the ability to make     Troll
+                              QG                                     1          175
+                                                                                         law runes.                     Stronghold‎
+
+                                          38      Strength                                                              Troll
+     Troll Romance            QG                                     2          177
+                                          41       Agility                                                              Stronghold‎
+
+                                               Train      Strength from level 38 to level 40
+
+                                          43       Agility
+     Darkness of                          44       Thieving                              Use all experience
+                              QG                                     2          179                                     Meiyerditch
+     Hallowvale                           34       Slayer                                rewards on      Slayer.
+                                          19       Construction
+
+      Train     Agility from level 43 to level 56 highly recommended: Obtain full Graceful on the Canifis Rooftop
+        Course (maximising marks of grace there with lower Agility levels. One is expected to reach ~58 Agility
+                                                    when doing so).
+
+                                                                                         Training even higher Agility
+     Underground                          46       Attack
+                              QG                                     5          184      before doing this quest is     Ardougne
+     Pass                                 56       Agility                               recommended.
+
+     Regicide                 QG          56       Agility           3          187                                     Tirannwn
+
+                                                                                         Starting this quest unlocks
+                                                                                         dragons Slayer tasks, and
+                                                                                         access to anti-dragon
+                                          40      Defence                                shields and antifire
+     Dragon Slayer I
+                              QG                                     2          189      potions. These tasks give      Varrock
+                                          44      Strength                               low experience per hour,
+                                                                                         so it can be beneficial not
+                                                                                         to start this quest any
+                                                                                         earlier.
+
+                                          46       Attack
+                                          41      Defence
+                                          44      Strength
+                                          30       Hitpoints
+     The Fremennik                        38      Woodcutting                                                           Fremennik
+                              QG                                     3          192
+     Trials                               24       Fletching                                                            Province
+                                          30       Fishing
+                                          43       Crafting
+                                          57       Agility
+                                          44       Thieving
+
+                                          Train          Construction from level 19 to level 20
+
+                                          45      Defence
+     The Fremennik                        41      Woodcutting                            Choose      Defence for        Fremennik
+                              QG                                     1          193
+     Isles                                43      Crafting                               both experience rewards.       Province
+                                          26       Construction
+
+     Recipe for                                                                          Gives access to spicy
+     Disaster/Freeing         QG          33      Cooking            1          194      stews, which can be useful     Edgeville
+     Evil Dave                                                                           for boosting stats.
+
+                                          34      Cooking
+     Recipe for
+                                          30       Fishing
+     Disaster/Freeing         QG                                     1          195                                     Lumbridge
+     Pirate Pete                          44       Crafting
+                                          39      Smithing
+
+                                                             Clear selection (201/233)
+
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                                                                16/29
+13.03.2026, 06:10                                                    Optimal quest guide - OSRS Wiki
+
+                                          47      Attack                                Return to the brothers
+     Tai Bwo Wannai                       44     Strength                               after completing the quest
+                              QG                                     2         197                                      Karamja
+     Trio                                 36     Cooking                                to claim all experience
+                                                                                        rewards.
+                                          33       Fishing
+
+                                                                                        Use            antique lamp
+     Easy Kandarin                                                                      on     Smithing. Keep
+                              N/A         40      Smithing           0         197                                      Kandarin
+     Diary                                                                              Kandarin Headgear in
+                                                                                        inventory for the next
+                                                                                        quest, Contact!
+                                                                                        Safespot the Giant Scarab
+                                                                                        with Magic and Protect
+                                          40       Magic                                from Missiles active.
+     Contact!                 QG                                     1         198                                      Al Kharid
+                                          45       Thieving                             Use the           combat
+                                                                                        lamp on          Magic twice.
+
+                                               Train        Ranged from level 37 to level 40
+
+                                          42       Ranged
+     Temple of Ikov           QG                                     1         199                                      Ardougne
+                                          31       Fletching
+
+                                               Train         Magic from level 40 to level 46
+
+                                          47       Magic
+                                                                                        Unlocks access to the
+     The Eyes of                          41      Woodcutting                           crystal saw, which gives        Tree Gnome
+                              QG                                     2         201
+     Glouphrie                            23       Runecraft                            an invisible +3 boost to        Stronghold
+                                                                                        Construction.
+                                          26       Construction
+
+     Temple of the Eye
+                              QG          31       Runecraft         1         202                                      Al Kharid
+
+
+     One Small Favour                                                                   Use the           antique
+                              QG          40       Slayer            2         204                                      Karamja
+                                                                                        lamps on         Slayer.
+
+                                                Train        Hunter from level 9 to level 12
+
+     The Ascent of                        32       Runecraft                                                            Great
+                              QG                                     1         205
+     Arceuus                              16       Hunter                                                               Kourend
+
+     Tale of the                                                                                                        Great
+                              QG                                     1         206
+     Righteous                                                                                                          Kourend
+
+     The Forsaken                         40      Smithing                                                              Great
+                              QG                                     1         207
+     Tower                                40       Mining                                                               Kourend
+
+     Easy Desert Diary        N/A         44      Smithing           0         207
+                                                                                        Use all          antique
+     Easy Falador                                                                       lamps on         Smithing.
+     Diary
+     Easy Fremennik
+     Diary
+
+     Easy Kourend &
+     Kebos Diary
+
+     Easy Lumbridge &
+     Draynor Diary
+
+                                                            Clear selection (201/233)
+
+
+
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                                                               17/29
+13.03.2026, 06:10                                                     Optimal quest guide - OSRS Wiki
+
+     Easy Morytania
+     Diary
+     Easy Varrock
+     Diary
+
+     Easy Western
+     Provinces Diary
+
+     Easy Wilderness
+     Diary
+
+                                               Train      Smithing from level 44 to level 50
+
+                                          45      Defence
+     Between a Rock...
+                              QG          50      Smithing            2         209                                     Keldagrim
+                                          41       Mining
+
+                                          44       Crafting
+     The Slug Menace
+                              QG          46       Thieving           1         210                                     Witchaven
+                                          33       Runecraft
+
+                                          45       Crafting                                                             Kebos
+     Getting Ahead            QG                                      1         211
+                                          29       Construction                                                         Lowlands
+
+                                                                                         Complete every camp
+                                                                                         improvement and claim
+                                                                                         your reward from Peter,
+                                                                                         clean the fossils, and add
+     Unlock: Museum                       27       Herblore                              them to the paleontology
+                              N/A                                     0         211                                     Fossil Island
+     Camp                                 32       Construction                          floor in the Varrock
+                                                                                         Museum. Use the
+                                                                                          antique lamp on
+                                                                                               Herblore.
+
+                                          Train          Construction from level 32 to level 37
+
+                                          45       Crafting                              Use the workshop and
+                                                                                         crafting table 3 you built     Fremennik
+     Cold War                 QG          57       Agility            1         212
+                                                                                         previously in your POH to      Province
+                                          37       Construction                          save time for this quest.
+
+                                               Train         Crafting from level 45 to level 49
+
+     The Hand in the                      49       Crafting
+                              QG                                      1         213                                     Yanille
+     Sand                                 46       Thieving
+
+                                               Train         Crafting from level 49 to level 50
+
+                                          48       Magic
+     Enakhra's Lament                     49       Firemaking                                                           Kharidian
+                              QG                                      2         215
+                                          50       Crafting                                                             Desert
+                                          43       Mining
+
+     Eadgar's Ruse            QG          34       Herblore           1         216      Boost to                       Troll
+                                                                                               31 Herblore     using    Stronghold‎
+                                                                                         a botanical pie, or train up
+                                                                                         to level 31 herblore before
+                                                                                         starting the quest.
+
+
+
+
+                                                             Clear selection (201/233)
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                                                                  18/29
+13.03.2026, 06:10                                                     Optimal quest guide - OSRS Wiki
+
+                                                                                         Collect and keep two
+                                                                                         extra goutweed herbs
+                                                                                         from the storage for
+                                                                                         use in later quests.
+
+                                                                                         Requires 60% Tai Bwo
+                                                                                         favour to start. It is
+                                          38       Herblore                              recommended to get
+     My Arm's Big                                                                                                     Troll
+                              QG                                      1         217      100% for the medium
+     Adventure                            35       Farming                                                            Stronghold‎
+                                                                                         Karamja Diary task before
+                                                                                         losing 60% favour during
+                                                                                         this quest.
+
+     The Garden of                                                                                                    Kebos
+                              QG          38       Farming            1         218
+     Death                                                                                                            Lowlands
+
+     Rag and Bone
+                              QG          43       Prayer             1         219                                   Paterdomus
+     Man II
+
+                                                Train        Prayer from level 43 to level 45
+
+                                               Train         Fishing from level 33 to level 50
+
+                                               Train         Farming from level 38 to level 40
+
+                                                Train        Slayer from level 40 to level 42
+
+                                          46       Prayer                                Before the quest, pray at
+                                                                                         the Edgeville Monastery to   Port
+     Rum Deal                 QG          50       Fishing            2         221
+                                                                                         have 47 Prayer points        Phasmatys
+                                          41       Farming                               needed for this quest.
+
+                                          51       Crafting
+                                                                                                                      Port
+     Cabin Fever              QG          51      Smithing            2         223
+                                                                                                                      Phasmatys
+                                          57       Agility
+
+     Meat and Greet
+                              QG          39      Cooking             1         224                                   Varlamore
+
+                                               Train     Cooking from level 39 to level 40
+
+     Recipe for
+     Disaster/Freeing
+                              QG          48       Magic              1         225                                   Lumbridge
+     the Lumbridge
+     Guide
+
+                                               Train     Cooking from level 40 to level 42
+
+     Recipe for                           42      Ranged
+     Disaster/Freeing
+                              QG          42      Woodcutting         1         226                                   Lumbridge
+     Skrach Uglogwee
+                                          51       Crafting
+
+                                               Train     Cooking from level 42 to level 50
+
+                                               Train         Mining from level 43 to level 50
+
+     Heroes' Quest            QG          47       Attack             1         227      Use an Admiral pie to        Burthorpe
+                                                                                         boost to 53 Fishing, and a
+                                          46      Defence
+                                                                                         Chef's delight to boost 53
+                                          45      Strength                               Cooking.
+                                          32       Hitpoints
+                                          43      Ranged
+                                          50      Cooking
+
+                                                             Clear selection (201/233)
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                                                              19/29
+13.03.2026, 06:10                                                     Optimal quest guide - OSRS Wiki
+
+                                          42      Woodcutting
+                                          50       Fishing
+                                          49      Firemaking
+                                          51      Smithing
+                                          50       Mining
+                                          38       Herblore
+
+     Throne of                                                                           Gives access to Managing
+                              QG                                     1          228                                     Miscellania
+     Miscellania                                                                         Miscellania.
+
+                                          34       Hitpoints
+     Royal Trouble            QG          57       Agility           1          229                                     Miscellania
+                                          43       Slayer
+
+                                                                                                                        Abandoned
+     Haunted Mine             QG          48      Strength           2          231
+                                                                                                                        Mine
+
+                                                                                         If you have a Slayer ring
+                                                                                         you can teleport directly to
+                                                                                         the boss. If you don't have
+                                                                                         one you'll need to traverse
+                                                                                         a maze while constantly
+                                                                                         being attacked, it's advised
+                                                                                         to bring a lot of food, at
+                                                                                         least 1 stamina potion and
+     Lair of Tarn                                                                        2 prayer potions, making
+                                                                                         sure to keep at least 1 for    Abandoned
+     Razorlor                 N/A         43       Slayer            0          231
+                                                                                         the final boss fight.          Mine
+     (miniquest)
+                                                                                         After killing the boss
+                                                                                         also kill one of the two
+                                                                                         terror dogs to fulfil a
+                                                                                         medium        Morytania
+                                                                                         Diary task.
+
+                                                                                         Talk to Daero for 35,000
+                                          51       Attack                                experience in      Attack
+     Monkey Madness                       50      Defence                                and     Defence and
+     I                        QG                                     3          234                                     Ape Atoll
+                                          50      Strength                               20,000 experience in
+                                          41       Hitpoints                                Strength and
+                                                                                              Hitpoints.
+
+     Ethically Acquired
+                              QG          47       Thieving          1          235                                     Varlamore
+     Antiquities
+
+                                                                                         Ability to use the Civitas
+     Twilight's Promise                                                                  illa Fortis Teleport spell
+                              QG          47       Thieving          1          236                                     Varlamore
+                                                                                         and the Quetzal Transport
+                                                                                         System in Varlamore
+
+                                               Train         Ranged from level 43 to level 60
+
+                                               Train     Thieving from level 47 to level 50
+
+     Roving Elves             QG          51      Strength           1          237                                     Tirannwn
+
+     Mourning's End                       45       Hitpoints
+                              QG                                     2          239                                     Tirannwn
+     Part I                               53       Thieving
+
+     Mourning's End           QG          60       Agility           2          241      Consider training Agility to   Tirannwn
+     Part II                                                                             ~65 and/or bringing
+                                                                                         summer pies before doing
+
+                                                             Clear selection (201/233)
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                                                                20/29
+13.03.2026, 06:10                                                      Optimal quest guide - OSRS Wiki
+                                                                                          this quest to improve
+                                                                                          success rates at passing
+                                                                                          the Agility obstacle in the
+                                                                                          puzzle.
+
+                                                Train         Magic from level 48 to level 50
+
+                                            Train         Firemaking from level 49 to level 50
+
+     Desert Treasure I                                                                    Unlocks the ability to use    Kharidian
+                              QG          51        Magic             3          244
+                                                                                          Ancient Magicks.              Desert
+
+                                                Train         Magic from level 51 to level 55
+
+                                                                                          Boost magic using a magic
+                                                                                          potion, or alternatively
+                                                                                          train 2 more levels and
+                                                                                          boost using a wizard's
+     Family Crest             QG                                      1          245      mind bomb.                    Varrock
+                                                                                          Unlocks steel gauntlets
+                                                                                          which can be useful when
+                                                                                          training Smithing, Cooking
+                                                                                          or Magic.
+
+                                            Train          Runecraft from level 33 to level 35
+
+                                          50      Defence                                 Unlocks access to
+     What Lies Below
+                              QG                                      1          246      battlestaves in Zaff's        Varrock
+                                          37        Runecraft                             Superior Staffs!
+
+                                                Train         Hunter from level 16 to level 27
+
+                                                                                                                        Piscatoris
+     Eagles' Peak             QG          29        Hunter            2          248      Unlocks box trap hunting.
+                                                                                                                        Hunter Area
+
+     A Tail of Two Cats                                                                   Use both         Antique      Kharidian
+                              QG          40        Herblore          2          250
+                                                                                                                        Desert
+                                                                                          lamps on       Herblore.
+
+                                                Train         Mining from level 50 to level 52
+
+                                           Train         Woodcutting from level 42 to level 50
+
+                                               Train       Herblore from level 40 to level 41
+
+                                                                                          Use a botanical pie to
+     Legends' Quest                                                                       boost to level 45 Herblore.
+                              QG          54        Herblore          4          254                                    Karamja
+                                                                                          Use all the experience
+                                                                                          rewards on       Herblore.
+
+                                          51        Fishing                               You may bank between
+                                          55        Herblore                              the fights if you have to,
+     Land of the
+                              QG                                      2          256      but you'll need to make an    Dorgesh-Kaan
+     Goblins                              60        Agility                               extra goblin potion if you
+                                          53        Thieving                              want to do that.
+
+     Recipe for
+                                          46       Hitpoints
+     Disaster/Freeing         QG                                      1          257                                    Lumbridge
+     Sir Amik Varze                       50       Cooking
+
+                                                                                                                        Fremennik
+     Olaf's Quest             QG          51      Defence             1          258
+                                                                                                                        Province
+
+                                           Train         Woodcutting from level 50 to level 52
+
+     A Kingdom                QG          47        Slayer            2          260      Unlocks more spells in the    Kourend
+     Divided                                                                              Arceuus spellbook.
+
+
+                                                              Clear selection (201/233)
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                                                                21/29
+13.03.2026, 06:10                                                     Optimal quest guide - OSRS Wiki
+
+                                                                                         Use both         antique
+                                                                                         lamps on       Slayer.
+
+                                                                                         To start the quest you can
+                                                                                         use Ectophial to teleport
+                                                                                         you near Andras who will
+                                                                                         take you north of the
+                                                                                         starting location for
+     A Taste of Hope                                                                     10,000gp.
+                              QG          48       Slayer             1         261                                      Meiyerditch
+                                                                                         Use             tome       of
+                                                                                         experience                 on
+                                                                                            Slayer.
+
+                                                Train        Hunter from level 29 to level 46
+
+                                                                                         Access to Master Tier
+                                          46       Hunter                                Hunters' Rumours. This
+     At First Light           QG                                      1         262      shouldn't require much          Varlamore
+                                          37           Construction                      training if birdhouses were
+                                                                                         done during prior quests.
+
+      Train         Farming from level 41 to level 46 - You can work on the 2 other skills while letting crops grow.
+
+                                                Train        Hunter from level 46 to level 50
+
+                                               Train        Fletching from level 31 to level 50
+
+     Unlock: Balloon
+     transport system         N/A         50       Firemaking         0         262                                      Entrana
+     to Castle Wars
+
+     Medium Ardougne
+     Diary
+     Medium Desert
+     Diary
+
+     Medium Falador
+     Diary
+     Medium
+     Fremennik Diary                                                                     Use a crystal saw, hunter
+                                                                                         potion, botanical pie for
+     Medium Kandarin                                                                     necessary boosts.
+     Diary
+                                                                                         Use all        antique
+     Medium Kourend           N/A         54       Slayer             0         262
+     & Kebos Diary                                                                       lamps on       Slayer.
+                                                                                         70 Combat Level is
+     Medium                                                                              required for the Lumbridge
+     Lumbridge &                                                                         Diary.
+     Draynor Diary
+
+     Medium Morytania
+     Diary
+
+     Medium Varrock
+     Diary
+     Medium Western
+     Provinces Diary
+
+                                                             Clear selection (201/233)
+
+
+
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                                                                 22/29
+13.03.2026, 06:10                                                     Optimal quest guide - OSRS Wiki
+
+                                                                                         Requires starting Desert
+     Curse of the
+                                                                                         Treasure I     and
+     Empty Lord               N/A                                    0          262                                     Kandarin
+                                                                                         obtaining the ring of
+     (miniquest)
+                                                                                         visibility.
+
+     The General's
+                                                                                         Requires the ring of
+     Shadow                   QG          54       Slayer            0          262                                     Rellekka
+                                                                                         visibility.
+     (miniquest)
+                                                                                         Talk to Historian Minas to
+                                                                                         claim a 10,000 experience
+                                                                                                 antique lamp to use
+                                                                                         on      Slayer. Note that in
+                                                                                         order to receive kudos for
+                                                                                         What Lies Below , you
+                                                                                         will need to bring
+                                                                                         Dagon'hai history with you.
+                                          46       Prayer
+     Unlock: More                         51       Crafting                              You now have 151
+     Varrock Museum           N/A         51      Smithing           0          262      kudos. Talk to the             Varrock
+     Kudos                                55       Slayer                                information clerk to be
+                                          50       Hunter                                awarded          4,000
+                                                                                         experience            in
+                                                                                             Crafting,
+                                                                                             Hunter,     Prayer
+                                                                                         ,        Slayer     and
+                                                                                             Smithing.
+
+                                                                                         Provides a large amount of
+     His Faithful                                                                        Prayer experience. The
+     Servants                 QG          49       Prayer            0          262      melee Barrows brothers         Morytania
+     (miniquest)                                                                         can be kited in their
+                                                                                         sarcophagus room.
+
+                                               Train         Prayer from level 49 to level 50
+
+                                          50       Prayer
+     The Great Brain                      52       Crafting                              Use the         blessed        Mos
+                              QG                                     2          264
+     Robbery                              55       Slayer                                                               Le'Harmless
+                                                                                         lamp on        Slayer.
+                                          38       Construction
+
+                                          51      Cooking
+     Scrambled!               QG          52      Smithing           1          265                                     Varlamore
+                                          39       Construction
+
+                                                                                         Use a botanical pie and
+                                          55       Herblore                              garden pie to boost
+     Fairytale II - Cure                                                                 Herblore and Farming.
+                              QG          54       Thieving          2          267                                     Zanaris
+     a Queen                                                                             Use the         antique
+                                          55       Slayer
+                                                                                         lamp on        Slayer.
+
+                                               Train     Cooking from level 51 to level 66
+
+     Recipe for                           66      Cooking                                Use a chef's delight to
+     Disaster/Freeing         QG                                     1          268                                     Ape Atoll
+                                          60       Agility                               boost Cooking to 70.
+     King Awowogei
+
+                                                             Clear selection (201/233)
+
+
+
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                                                                23/29
+13.03.2026, 06:10                                                     Optimal quest guide - OSRS Wiki
+
+     Recipe for
+     Disaster/Defeating                                                                  Use the         antique
+     the                      QG          56       Slayer             1         269                                     Lumbridge
+     Culinaromancer                                                                      lamp on        Slayer.
+
+
+                                                Train      Defence from level 51 to level 60
+
+                                               Train      Strength from level 51 to level 60
+
+                                                                                         If you have focused on
+                                                                                         questing and not done
+                                                                                         much combat, these quest
+                                          52       Fishing                               bosses will be significantly
+                                                                                         harder than anything faced
+     Perilous Moons                       58       Slayer
+                              QG                                      2         271      before. Even at the            Cam Torum
+                                          39       Runecraft                             recommended 75 combat
+                                          50       Hunter                                level, players may struggle
+                                                                                         if their defence is lower
+                                                                                         than 60. Prioritise bringing
+                                                                                         defensive equipment.
+
+                                               Start miniquest: In Search of Knowledge            .
+
+                                               Train       Thieving from level 54 to level 56
+
+                                          61      Strength
+     The Path of                          55       Magic                                                                Tree Gnome
+                              QG                                      2         273
+     Glouphrie                            56       Thieving                                                             Village‎
+                                          59       Slayer
+
+                                                Train        Mining from level 52 to level 55
+
+                                          55       Mining
+     The Heart of                         61       Agility
+                              QG                                      2         275                                     Varlamore
+     Darkness                             56       Thieving
+                                          59       Slayer
+
+                                                Train         Magic from level 55 to level 65
+
+                                               Train         Crafting from level 52 to level 61
+
+                                                Train        Mining from level 55 to level 60
+
+                                           Train         Woodcutting from level 52 to level 55
+
+     Lunar Diplomacy                      65       Magic                                 Unlocks the Lunar
+                              QG                                      2         277                                     Lunar Isle
+                                          40       Runecraft                             spellbook's core spells.
+
+                                                Train      Defence from level 60 to level 65
+
+                                          65      Defence
+                                                                                         Use the         antique
+     King's Ransom            QG          65       Magic              1         278                                     Camelot
+                                          60       Slayer                                lamp on        Slayer.
+
+                                          52       Attack
+     Knight Waves
+                                          66      Defence
+     Training Grounds         N/A                                     0         278                                     Camelot
+     (miniquest)                          61      Strength
+                                          48       Hitpoints
+
+                                                Train         Magic from level 65 to level 66
+
+                                                             Clear selection (201/233)
+
+
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                                                               24/29
+13.03.2026, 06:10                                                      Optimal quest guide - OSRS Wiki
+
+                                               Train          Fishing from level 52 to level 57
+
+                                                                                          Use an admiral pie to
+                                          51       Prayer                                 boost to 62 Fishing. Bring
+                                                                                                                        Piscatoris
+                                                                                          multiple in case you don't
+     Swan Song                QG          66       Magic               2         280                                    Fishing
+                                                                                          manage to catch enough
+                                          59        Fishing                                                             Colony
+                                                                                          fish in time the pie runs
+                                                                                          out.
+
+                                               Train      Smithing from level 52 to level 55
+
+                                                Train         Hunter from level 50 to level 52
+
+     Below Ice
+                              QG                                       1         281                                    Asgarnia
+     Mountain
+
+                                                                                          After the quest, talk to
+                                          55       Smithing                               Historian Minas for an
+     Defender of                                                                          antique lamp. Use the
+                              QG          60       Slayer              2         283                                    Varrock
+     Varrock                                                                                      antique lamp on
+                                          53       Hunter
+                                                                                                Slayer.
+
+                                               Train       Smithing from level 55 to level 65
+
+                                            Train          Runecraft from level 40 to level 50
+
+                                          50        Fletching
+     Devious Minds            QG          65       Smithing            1         284                                    Paterdomus
+                                          50        Runecraft
+
+                                           Train         Woodcutting from level 55 to level 68
+
+                                               Train       Thieving from level 56 to level 58
+
+                                          49       Hitpoints
+                                          68       Woodcutting
+                                          56        Herblore                              Use a dragon axe special
+     Grim Tales               QG                                       1         285      attack or stews to boost      Taverley
+                                          61        Agility                               Woodcutting to 71.
+                                          59        Thieving
+                                          47        Farming
+
+                                  Train        Combat level to 85 (Recommended: also train Slayer)
+
+                                                                                          Unlocks additional spells
+                                                                                          in the Lunar spellbook.
+                                          50       Hitpoints
+     Dream Mentor             QG                                       2         287                                    Lunar Isle
+                                          66        Magic                                 Use the            Dreamy
+                                                                                          lamp on          Magic.
+
+                                               Train          Fishing from level 59 to level 60
+
+                                                                                          Use an admiral pie to
+                                                                                          boost to 65.
+     Medium Karamja
+                              N/A         60       Slayer              0         287      Use            antique lamp   Karamja
+     Diary
+                                                                                          on       Slayer.
+
+     Medium                                                                               Use            antique lamp
+                              N/A         60       Slayer              0         287                                    Wilderness
+     Wilderness Diary
+                                                                                          on       Slayer.
+
+                                               Train          Crafting from level 61 to level 65
+
+                                                              Clear selection (201/233)
+
+
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                                                               25/29
+13.03.2026, 06:10                                                      Optimal quest guide - OSRS Wiki
+
+                                            Train          Runecraft from level 50 to level 55
+
+                                          66        Crafting
+     The Fremennik                                                                                                       Fremennik
+                              QG          62        Slayer            2          289
+     Exiles                                                                                                              Province
+                                          56           Runecraft
+
+                                               Train        Fletching from level 50 to level 60
+
+     Sins of the Father                                                                   Use the         tome of
+                              QG          64        Slayer            2          291                                     Meiyerditch
+                                                                                          experience on       Slayer.
+
+                                            Train          Firemaking from level 50 to level 60
+     Unlock: Balloon
+     transport system         N/A         60        Firemaking        0          291                                     Entrana
+     to Grand Tree
+
+                                                                                          Use the         lamp of
+                                                                                          knowledge on       Slayer.
+                                                                                          This miniquest will
+                                                                                          take a very long time
+                                                                                          to complete on its
+                                                                                          own.         It       is
+     In Search of                                                                         recommended to kill            Great
+     Knowledge                N/A         64        Slayer            0          291
+     (miniquest)
+                                                                                          monsters       in   the        Kourend
+                                                                                          Forthos        Dungeon
+                                                                                          while on a spiders,
+                                                                                          zombies,      or    red
+                                                                                          dragons Slayer task,
+                                                                                          to passively obtain the
+                                                                                          required pages.
+
+                                                                                          Provides a large amount of
+                                                                                          Prayer experience. Can be
+                                                                                          partially completed for part
+     Hopespear's Will
+                              N/A         54        Prayer            0          291      of the experience reward,      Hemenster
+       (miniquest)
+                                                                                          in case some of the
+                                                                                          enemies are too difficult to
+                                                                                          defeat.
+
+                                                Train         Agility from level 61 to level 62
+
+     Beneath Cursed                                                                                                      Kharidian
+                              QG          63        Agility           2          293
+     Sands                                                                                                               Desert
+
+                                          Train           Construction from level 39 to level 41
+
+                                          60        Fishing
+     Shadows of                           65        Slayer
+                              QG                                      2          295                                     Varlamore
+     Custodia                             53        Hunter
+                                          41           Construction
+
+                                                Train         Sailing from level 23 to level 45
+
+                                          Train           Construction from level 41 to level 50
+
+                                                              Clear selection (201/233)
+
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                                                                 26/29
+13.03.2026, 06:10                                                      Optimal quest guide - OSRS Wiki
+
+     Troubled                             65        Slayer
+                              QG                                       1         296                                    Great Conch
+     Tortugans                            46        Sailing
+
+                                                Train         Hunter from level 53 to level 60
+
+                                                Train         Agility from level 63 to level 68
+
+                                                Train         Slayer from level 65 to level 69
+
+                                               Train          Crafting from level 66 to level 70
+
+                                          68        Magic
+                                          68        Agility                               Choose       Magic when
+     Monkey Madness                                                                                                     Tree Gnome
+                              QG          60        Thieving           4         300      asked during Duke's
+     II                                                                                                                 Stronghold
+                                          70        Slayer                                training.
+                                          61        Hunter
+
+     Into the Tombs                                                                       Use the         antique       Kharidian
+                              N/A         69        Magic              0         300
+     (miniquest)                                                                                                        Desert
+                                                                                          lamp on        Magic.
+
+     A Night at the                                                                       Use all four       antique
+                              QG          70        Magic              2         302                                    Meiyerditch
+     Theatre
+                                                                                          lamps on        Magic.
+
+                                                Train          Magic from level 70 to level 75
+
+                                                Train         Mining from level 60 to level 68
+
+                                               Train      Smithing from level 65 to level 70
+
+                                                                                          An additional 4 batches of
+                                          58       Attack                                 25,000 experience in any
+                                          71      Smithing                                combat skill except Prayer
+     Dragon Slayer II                                                                     can be obtained from
+                              QG          68        Mining             5         307                                    Feldip Hills
+                                                                                          Ellen.
+                                          69        Agility                               Select either Attack or
+                                          62        Thieving                              Strength; Attack is chosen
+                                                                                          here for all 4 batches.
+
+                                          69        Mining
+     The Curse of
+                              QG          70        Agility            2         309                                    Uzer Oasis
+     Arrav
+                                          63        Thieving
+
+                                            Train        Firemaking from level 60 to level 66
+
+                                          66        Firemaking
+     Making Friends                       70        Mining                                Use a dragon pickaxe or       Troll
+                              QG                                       2         311
+     with My Arm                          70        Agility                               spicy stew to boost Mining.   Stronghold‎
+                                          50        Construction
+
+                                               Train      Thieving from level 63 to level 64
+
+                                          71        Agility
+     Secrets of the                                                                                                     East
+                              QG          65        Thieving           2         313
+     North                                                                                                              Ardougne
+                                          62        Hunter
+
+                                               Train      Thieving from level 65 to level 66
+
+                                                              Clear selection (201/233)
+
+
+
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                                                                 27/29
+13.03.2026, 06:10                                                      Optimal quest guide - OSRS Wiki
+
+
+                                                                                          Although the
+                                                                                          antique lamp could be
+                                          60        Fletching                             used on      Attack or
+     The Final Dawn                                                                          Strength to speed up
+                              QG          67        Thieving           3         316                                    Varlamore
+                                                                                          quest progression, it might
+                                          57        Runecraft                             also make more sense to
+                                                                                          use it on    Prayer or
+                                                                                               Magic for purposes of
+                                                                                          account progression.
+
+                                               Train          Thieving from level 67 to level 72
+
+                                               Train          Farming from level 47 to level 65
+
+                                               Train          Herblore from level 56 to level 65
+
+                                               Train          Attack from level 58 to level 65
+
+                                               Train      Strength from level 61 to level 65
+
+                                          66        Herblore
+     While Guthix                         72        Thieving
+                              QG                                       5         321                                    Taverley
+     Sleeps                               66        Farming
+                                          64        Hunter
+
+                                            Train         Firemaking from level 66 to level 75
+
+                                            Train          Runecraft from level 57 to level 60
+
+                                          Train          Construction from level 50 to level 60
+
+                                                                                          Use the three
+     Desert Treasure II
+                                                                                          ancient lamps on any          Kharidian
+     - The Fallen             QG          65        Prayer             5         326
+                                                                                          combat skill of your          Desert
+     Empire
+                                                                                          choosing. Prayer is
+                                                                                          selected here.
+
+                                          Train          Construction from level 60 to level 70
+
+                                               Train          Farming from level 66 to level 70
+
+                                               Train          Herblore from level 66 to level 70
+
+                                                Train         Hunter from level 64 to level 70
+
+                                           Train         Woodcutting from level 68 to level 70
+
+                                          70       Woodcutting
+                                          71       Smithing
+                                          70        Mining
+     Song of the Elves                    70        Herblore
+                              QG                                       4         330                                    Tirannwn
+                                          72        Agility
+                                          70        Farming
+                                          70        Hunter
+                                          70        Construction
+
+      All       quest XP rewards from this point do not impact any other quests, and therefore require no specific
+                                                  order of completion.
+
+     Clock Tower              QG                                       1         331                                    Ardougne
+
+                                                              Clear selection (201/233)
+
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                                                              28/29
+13.03.2026, 06:10                                                 Optimal quest guide - OSRS Wiki
+
+     The Corsair Curse                                                               Unlocks access to the
+                              QG                                 2          333                               Port Sarim
+                                                                                     Feldip Hills via boat.
+
+                                                            Quest point cape!
+
+                                                         Clear selection (201/233)
+
+
+
+
+   See also
+       Optimal quest guide/Ironman, the Ironman variant of this guide
+       Optimal quest guide/Free-to-play, the free-to-play variant of this guide
+
+   Retrieved from "https://oldschool.runescape.wiki/w/Optimal_quest_guide?oldid=15143246"
+
+
+   This page was last modified on 6 March 2026, at 00:25.
+
+   Content on this site is licensed under CC BY-NC-SA 3.0; additional terms apply.
+   RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of
+   Jagex.
+
+
+
+
+https://oldschool.runescape.wiki/w/Optimal_quest_guide                                                                     29/29
+
